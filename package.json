@@ -1,7 +1,7 @@
 {
-  "name": "i-love-my-city-ejs",
+  "name": "ilovemycity-ejs-refactored",
   "version": "1.0.0",
-  "description": "iLoveMyCity application using EJS Template",
+  "description": "Refactored I Love My City Application using EJS ",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
